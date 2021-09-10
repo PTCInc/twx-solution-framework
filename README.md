@@ -24,7 +24,13 @@ PTC is not responsible for any maintenance for this software.
 
 # Overview
 
-DESCRIPTION
+The Solution Framework is a solution developed by PTC Digital Transformation Solutions Engineering team that allows for the creation, modification, configuration, and securing of Solution Building Blocks. Use this solution to:
+
+* Create new building blocks  
+* Extend/Customize Out-of-the-Box building blocks 
+* View installed building block information, including initialization status and containing entities
+* Configure various building block configurations
+* Implement and customize security permissions for the various assets contained in installed building blocks
 
 All content is provided as "Releases" and is not directly in the Git Repo.  Cloning this Git Repo will not provide any content.
 
