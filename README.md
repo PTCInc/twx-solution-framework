@@ -34,6 +34,32 @@ The Solution Framework is a solution developed by PTC Digital Transformation Sol
 
 All content is provided as "Releases" and is not directly in the Git Repo.  Cloning this Git Repo will not provide any content.
 
+# Package Contents
+
+The 'Solution Framework' extension package contains the following building blocks/extensions:
+
+  | Building Block Name | Developing Organization | Supported Status |
+  | ------------------- | ----------------------- | ---------------- |
+  | PTC.Base | PTC R&D | Supported |
+  | PTC.UserManagement | PTC R&D | Supported |
+  | PTC.DBConnection | PTC R&D | Supported |
+  | PTC.ModelManagement | PTC R&D | Supported |
+  | PTC.ModelManagementImpl | PTC R&D | Supported |
+  | PTC.DefaultConnection | PTC R&D | Supported |
+  | ptc-thingview-extension | PTC R&D | Supported |
+  | PTCDTS.Base | PTC DTS | Not Supported |
+  | PTC.ComponentManagement | PTC DTS | Not Supported |
+  | PTC.UpgradeManagement | PTC DTS | Not Supported |
+  | PTC.DatabaseManagement | PTC DTS | Not Supported |
+  | PTC.DatabaseManagementUI | PTC DTS | Not Supported |
+  | PTCDTS.CustomizationAnalysis | PTC DTS | Not Supported |
+  | PTCDTS.UserManagementUI | PTC DTS | Not Supported |
+  | hierarchy-graph | PTC DTS | Not Supported |
+  | PTC.SolutionFramework | PTC DTS | Not Supported |
+  | PTCDTS.Base.Permissions | PTC DTS | Not Supported |
+  
+All 'Not Supported' building blocks/extensions are subject to the above Disclaimer.
+
 # License
 
 ## PTC Proprietary Freeware License
